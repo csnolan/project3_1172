@@ -1,0 +1,68 @@
+{
+  "quiz_one" : [
+    
+    {
+      "question": "Handlebars: What is Handlebars primarily used for?",
+      "answer": "Template creation",
+      "choices": ["Template creation","Back-end development","Database management","DOM manipulation"],
+      "feedback": "Correct answer is 'Template creation', which highlights Handlebars as a tool for generating HTML templates efficiently."
+    },
+    {
+      "question": "CSS: What property is used to change the text color of an element?",
+      "answer": "color",
+      "choices": ["font-color", "text-color", "color", "style"],
+      "feedback": "Correct answer is 'color', which is used to set the text color of an element in CSS."
+    },
+     {
+        "question" : "HTML: Choose the correct HTML element for the largest heading:",
+        "answer" : "<h1>",
+        "choices" : ["<h1>","<H>","<header>","<heading>"],
+        "feedback" : "Correct answer is <h1>"
+    },
+     {
+        "question" : "HTML: Choose the correct HTML element to define important text",
+        "answer" : "<br>",
+        "choices" : ["<i>","<important>","<br>","<strong>"],
+        "feedback" : "Correct answer is <br>"
+    },
+     {
+        "question" : "HTML: Which character is used to indicate an end tag?",
+        "answer" : "/",
+        "choices" : ["^","*","/","<"],
+        "feedback" : "Correct answer is /"
+    }
+
+  ],
+  "quiz_two" : [
+     {
+        "question" : "Java is a _______ language.",
+        "answer" : "OOP",
+        "choices" : ["OOP","Proecdural","Functional","Scripting"],
+        "feedback" : "Correct answer is OOP"
+    },
+     {
+        "question" : "Java: How do you insert COMMENTS in Java code?",
+        "answer" : "// This is a comment",
+        "choices" : ["/* This is a comment","// This is a comment", "# This is a comment"],
+        "feedback" : "Correct answer is // This is a comment"
+    },
+    {
+      "question": "HTML: How do you write comments in HTML?",
+      "answer": "<!-- comment -->",
+      "choices": ["// comment", "<!-- comment -->", "/* comment */, <= comment =>"],
+      "feedback": "Correct answer is <!-- comment -->, which is the syntax for adding comments in HTML."
+    },
+     {
+      "question": "JavaScript: What does the || operator do?",
+      "answer": "It performs a logical OR operation",
+      "choices": ["It concatenates strings", "It performs a logical OR operation", "It compares two values", "Function declaration"],
+      "feedback": "Correct answer is that it performs a logical OR operation, returning true if at least one of the operands is true"
+    },  
+     {
+        "question" : "Java: The value of a string variable can be surrounded by",
+        "answer" : "False",
+        "choices" : ["Single Quotes","Double Quotes","Both Single and Double Quotes","None of the above"],
+        "feedback" : "Correct answer is Double Quotes"
+     }
+  ]
+}
